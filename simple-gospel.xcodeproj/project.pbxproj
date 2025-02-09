@@ -29,9 +29,25 @@
 		A35AB6ED2D49945D00F366E3 /* simple-gospelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "simple-gospelUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A34ABFDB2D59644E00D3EEB2 /* Exceptions for "simple-gospel" folder in "simple-gospel" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Managers/AppearanceManager.swift,
+				Models/Book.swift,
+				Views/BooksGridView.swift,
+				Views/ChapterView.swift,
+			);
+			target = A35AB6D22D49945B00F366E3 /* simple-gospel */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A35AB6D52D49945B00F366E3 /* simple-gospel */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A34ABFDB2D59644E00D3EEB2 /* Exceptions for "simple-gospel" folder in "simple-gospel" target */,
+			);
 			path = "simple-gospel";
 			sourceTree = "<group>";
 		};
@@ -396,6 +412,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"simple-gospel/Preview Content\"";
+				DEVELOPMENT_TEAM = U3CA3PZ4Q8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -424,6 +441,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"simple-gospel/Preview Content\"";
+				DEVELOPMENT_TEAM = U3CA3PZ4Q8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
