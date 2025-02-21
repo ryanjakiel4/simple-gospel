@@ -14,6 +14,15 @@ struct ChapterView: View {
     @State private var bibleText: BibleText?
     @EnvironmentObject private var appearanceManager: AppearanceManager
     
+    private func formatSection(_ section: BibleText.Section) -> some View {
+        Text(section.verses.map { verse in
+            "\(verse.verseNumber.superscript) \(verse.text)"
+        }.joined(separator: " "))
+        .font(appearanceManager.font)
+        .padding(.leading, section.isPoetry ? 32 : 0)
+        .padding(.bottom, 8)
+    }
+    
     var body: some View {
         ScrollViewReader { proxy in
             ScrollView {
@@ -41,23 +50,16 @@ struct ChapterView: View {
                     #endif
                     
                     if let bibleText = bibleText {
-                        // Display all chapters
                         ForEach(bibleText.chapters, id: \.chapterNumber) { chapter in
                             VStack(alignment: .leading, spacing: 16) {
                                 Text("Chapter \(chapter.chapterNumber)")
                                     .font(.title)
                                     .fontWeight(.bold)
                                     .padding(.vertical)
-                                    .id(chapter.chapterNumber) // For ScrollViewReader
+                                    .id(chapter.chapterNumber)
                                 
-                                ForEach(chapter.verses, id: \.verseNumber) { verse in
-                                    VStack(alignment: .leading, spacing: 8) {
-                                        Text(verse.text)
-                                            .font(appearanceManager.font)
-                                            .padding(.leading, verse.isPoetry ? 32 : 0)
-                                            .multilineTextAlignment(.leading)
-                                            .fixedSize(horizontal: false, vertical: true)
-                                    }
+                                ForEach(Array(chapter.sections.enumerated()), id: \.0) { index, section in
+                                    formatSection(section)
                                 }
                             }
                             .padding(.horizontal)
@@ -85,6 +87,27 @@ struct ChapterView: View {
             print("Failed to load book: \(book.name)")
             // You might want to show an error message to the user
         }
+    }
+}
+
+// Add extension for superscript conversion
+extension String {
+    var superscript: String {
+        map { char -> String in
+            switch char {
+            case "0": return "⁰"
+            case "1": return "¹"
+            case "2": return "²"
+            case "3": return "³"
+            case "4": return "⁴"
+            case "5": return "⁵"
+            case "6": return "⁶"
+            case "7": return "⁷"
+            case "8": return "⁸"
+            case "9": return "⁹"
+            default: return String(char)
+            }
+        }.joined()
     }
 }
 

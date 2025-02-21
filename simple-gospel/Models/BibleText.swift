@@ -13,16 +13,40 @@ struct BibleText {
         let verseNumber: String
         let text: String
         let isPoetry: Bool
+        let sectionIndex: Int  // Add this to track which section the verse belongs to
+    }
+    
+    struct Section {
+        let verses: [Verse]
+        let isPoetry: Bool
     }
     
     struct Chapter {
         let chapterNumber: Int
-        let verses: [Verse]
+        let sections: [Section]  // Change from verses to sections
         
         var displayText: String {
-            verses.map { verse in
-                let prefix = verse.isPoetry ? "    " : "" // Indent poetry
-                return "\(prefix)[\(verse.verseNumber)] \(verse.text)"
+            sections.map { section in
+                let prefix = section.isPoetry ? "    " : "" // Indent poetry
+                // Use Unicode superscript numbers for verse numbers
+                let superscriptNumber = section.verses.map { verse in
+                    verse.verseNumber.map { char -> String in
+                        switch char {
+                        case "0": return "⁰"
+                        case "1": return "¹"
+                        case "2": return "²"
+                        case "3": return "³"
+                        case "4": return "⁴"
+                        case "5": return "⁵"
+                        case "6": return "⁶"
+                        case "7": return "⁷"
+                        case "8": return "⁸"
+                        case "9": return "⁹"
+                        default: return String(char)
+                        }
+                    }.joined()
+                }.joined(separator: " ")
+                return "\(prefix)\(superscriptNumber)\n\n\(section.verses.map { $0.text }.joined(separator: "\n\n"))"
             }.joined(separator: "\n\n")
         }
     }
@@ -63,6 +87,7 @@ struct BibleText {
         var currentVerses: [Verse] = []
         var isInPoetrySection = false
         var pendingVerseNumber: String? = nil
+        var currentSectionIndex = 0
         
         let lines = content.components(separatedBy: .newlines)
         print("Found \(lines.count) lines in file")
@@ -75,70 +100,110 @@ struct BibleText {
             }
             
             if trimmedLine.starts(with: "Chapter ") {
-                print("📚 Found Chapter marker at line \(index): \(trimmedLine)")
                 if currentChapter > 0 && !currentVerses.isEmpty {
-                    chapters.append(Chapter(chapterNumber: currentChapter, verses: currentVerses))
-                    print("✓ Added Chapter \(currentChapter) with \(currentVerses.count) verses")
+                    let sections = Dictionary(grouping: currentVerses) { $0.sectionIndex }
+                        .sorted { $0.key < $1.key }
+                        .map { Section(verses: $0.value, isPoetry: $0.value.first?.isPoetry ?? false) }
+                    chapters.append(Chapter(chapterNumber: currentChapter, sections: sections))
                     currentVerses = []
                 }
                 currentChapter = Int(trimmedLine.replacingOccurrences(of: "Chapter ", with: "")) ?? 0
                 pendingVerseNumber = nil
             } else if trimmedLine == "[poetry]" {
+                if !currentVerses.isEmpty {
+                    currentSectionIndex += 1
+                }
                 isInPoetrySection = true
             } else if trimmedLine == "[bodytext]" {
+                if !currentVerses.isEmpty {
+                    currentSectionIndex += 1
+                }
                 isInPoetrySection = false
-            } else if trimmedLine.starts(with: "[") {
-                // Check if this line contains both verse number and text
-                if let verseRange = trimmedLine.range(of: #"^\[\d+(?::\d+)?\]"#, options: .regularExpression) {
+            } else if trimmedLine.starts(with: "[") && trimmedLine.hasSuffix("]") {
+                // This is a standalone verse number
+                if let verseRange = trimmedLine.range(of: #"\[(\d+(?::\d+)?)\]"#, options: .regularExpression) {
                     var verseNumber = String(trimmedLine[verseRange])
                         .replacingOccurrences(of: "[", with: "")
                         .replacingOccurrences(of: "]", with: "")
                     
-                    // Convert "chapter:1" format to just "1"
+                    // Convert "chapter:verse" format to just "verse"
                     if verseNumber.contains(":") {
                         verseNumber = String(verseNumber.split(separator: ":")[1])
                     }
                     
-                    let verseStartIndex = trimmedLine.index(verseRange.upperBound, offsetBy: 0)
-                    let verseText = String(trimmedLine[verseStartIndex...]).trimmingCharacters(in: .whitespaces)
+                    pendingVerseNumber = verseNumber
+                }
+            } else if !trimmedLine.isEmpty && pendingVerseNumber != nil {
+                // This line contains the text for the pending verse number and possibly more verses
+                var text = trimmedLine
+                var currentVerseNumber = pendingVerseNumber!
+                
+                // Find all verse numbers in the text, including both [n] and [n:m] formats
+                let pattern = #"\[(\d+(?::\d+)?)\]"#  // Changed pattern to match both formats
+                let regex = try! NSRegularExpression(pattern: pattern)
+                let range = NSRange(text.startIndex..., in: text)
+                let matches = regex.matches(in: text, range: range)
+                
+                if matches.isEmpty {
+                    // Just a single verse
+                    currentVerses.append(Verse(
+                        verseNumber: currentVerseNumber,
+                        text: text,
+                        isPoetry: isInPoetrySection,
+                        sectionIndex: currentSectionIndex
+                    ))
+                    print("📖 Added single verse \(currentVerseNumber) to Chapter \(currentChapter)")
+                } else {
+                    // Multiple verses in this text
+                    var lastIndex = text.startIndex
                     
-                    if verseText.isEmpty {
-                        // Store the verse number for the next line
-                        pendingVerseNumber = verseNumber
-                    } else {
-                        // Add verse with text on same line
+                    for match in matches {
+                        let matchRange = Range(match.range, in: text)!
+                        let verseText = String(text[lastIndex..<matchRange.lowerBound])
+                            .trimmingCharacters(in: .whitespaces)
+                        
+                        if !verseText.isEmpty {
+                            currentVerses.append(Verse(
+                                verseNumber: currentVerseNumber,
+                                text: verseText,
+                                isPoetry: isInPoetrySection,
+                                sectionIndex: currentSectionIndex
+                            ))
+                            print("📖 Added verse \(currentVerseNumber) to Chapter \(currentChapter)")
+                        }
+                        
+                        // Extract and clean up the next verse number
+                        var nextVerseNumber = String(text[Range(match.range(at: 1), in: text)!])
+                        if nextVerseNumber.contains(":") {
+                            nextVerseNumber = String(nextVerseNumber.split(separator: ":")[1])
+                        }
+                        currentVerseNumber = nextVerseNumber
+                        lastIndex = matchRange.upperBound
+                    }
+                    
+                    // Add the final verse text
+                    let finalText = String(text[lastIndex...]).trimmingCharacters(in: .whitespaces)
+                    if !finalText.isEmpty {
                         currentVerses.append(Verse(
-                            verseNumber: verseNumber,
-                            text: verseText,
-                            isPoetry: isInPoetrySection
+                            verseNumber: currentVerseNumber,
+                            text: finalText,
+                            isPoetry: isInPoetrySection,
+                            sectionIndex: currentSectionIndex
                         ))
-                        print("📖 Added verse \(verseNumber) to Chapter \(currentChapter)")
+                        print("📖 Added final verse \(currentVerseNumber) to Chapter \(currentChapter)")
                     }
                 }
-            } else if let verseNumber = pendingVerseNumber {
-                // This is the text for a previous verse number
-                currentVerses.append(Verse(
-                    verseNumber: verseNumber,
-                    text: trimmedLine,
-                    isPoetry: isInPoetrySection
-                ))
-                print("📖 Added verse \(verseNumber) to Chapter \(currentChapter)")
+                
                 pendingVerseNumber = nil
             }
         }
         
-        // Add final chapter
+        // When creating a Chapter, group verses into sections
         if !currentVerses.isEmpty {
-            chapters.append(Chapter(chapterNumber: currentChapter, verses: currentVerses))
-            print("✓ Added final Chapter \(currentChapter) with \(currentVerses.count) verses")
-        }
-        
-        print("📚 Finished loading book with \(chapters.count) chapters")
-        if let firstChapter = chapters.first {
-            print("First chapter has \(firstChapter.verses.count) verses")
-            if let firstVerse = firstChapter.verses.first {
-                print("First verse: [\(firstVerse.verseNumber)] \(firstVerse.text)")
-            }
+            let sections = Dictionary(grouping: currentVerses) { $0.sectionIndex }
+                .sorted { $0.key < $1.key }
+                .map { Section(verses: $0.value, isPoetry: $0.value.first?.isPoetry ?? false) }
+            chapters.append(Chapter(chapterNumber: currentChapter, sections: sections))
         }
         
         return BibleText(bookName: bookName, chapters: chapters)
