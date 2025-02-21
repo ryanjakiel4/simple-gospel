@@ -11,98 +11,123 @@ import SwiftUI
 struct ChapterView: View {
     let book: Book
     @State private var selectedChapter = 1
-    @State private var bibleText: BibleText?
+    @State private var chapters: [BibleData.Chapter]?
     @State private var isDragging = false
-    @State private var currentChapter = 1
     @Environment(\.dynamicTypeSize) private var dynamicTypeSize
     
-    private func formatSection(_ section: BibleText.Section) -> some View {
-        Text(section.verses.map { verse in
-            "\(verse.verseNumber.superscript)\(verse.text)"
-        }.joined(separator: " "))
-        .dynamicTypeSize(...DynamicTypeSize.accessibility3)
-        .font(.body)
-        // Use primary text color that adapts automatically
-        .foregroundColor(.primary)
-        .padding(.leading, section.isPoetry ? 32 : 0)
-        .padding(.bottom, 8)
+    // Break out verse view into separate component
+    private struct VerseView: View {
+        let verse: BibleData.Verse
+        
+        var body: some View {
+            Text("\(String(verse.number).superscript)\(verse.text)")
+                .dynamicTypeSize(...DynamicTypeSize.accessibility3)
+                .font(.body)
+                .foregroundColor(.primary)
+                .padding(.leading, verse.isPoetry ? 32 : 0)
+                .padding(.bottom, 8)
+        }
+    }
+    
+    // Break out chapter content into separate component
+    private struct ChapterContentView: View {
+        let chapter: BibleData.Chapter
+        
+        var body: some View {
+            VStack(alignment: .leading, spacing: 16) {
+                Text("\(chapter.number)")
+                    .font(.title)
+                    .fontWeight(.bold)
+                    .dynamicTypeSize(...DynamicTypeSize.accessibility3)
+                    .foregroundColor(.primary)
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical)
+                    .id(chapter.number)
+                
+                ForEach(chapter.verses) { verse in
+                    VerseView(verse: verse)
+                }
+                
+                Divider()
+                    .padding(.vertical)
+            }
+            .padding(.horizontal)
+        }
+    }
+    
+    // Break out scroll bar into separate component
+    private struct ScrollBarView: View {
+        let maxChapters: Int
+        @Binding var selectedChapter: Int
+        @Binding var isDragging: Bool
+        let scrollProxy: ScrollViewProxy
+        
+        var body: some View {
+            GeometryReader { geometry in
+                Rectangle()
+                    .fill(Color.clear)
+                    .frame(width: 44)
+                    .contentShape(Rectangle())
+                    .gesture(
+                        DragGesture(minimumDistance: 0)
+                            .onChanged { value in
+                                isDragging = true
+                                let percentage = min(max(value.location.y / geometry.size.height, 0), 1)
+                                let targetChapter = Int(percentage * CGFloat(maxChapters)) + 1
+                                selectedChapter = max(1, min(maxChapters, targetChapter))
+                                
+                                withAnimation(.interactiveSpring()) {
+                                    scrollProxy.scrollTo(selectedChapter, anchor: .top)
+                                }
+                            }
+                            .onEnded { _ in
+                                withAnimation {
+                                    isDragging = false
+                                }
+                            }
+                    )
+                    .overlay(
+                        Group {
+                            if isDragging {
+                                Text("\(selectedChapter)")
+                                    .font(.system(size: 16, weight: .bold))
+                                    .dynamicTypeSize(...DynamicTypeSize.accessibility3)
+                                    .foregroundColor(.white)
+                                    .frame(width: 40, height: 40)
+                                    .background(Color.accentColor)
+                                    .clipShape(Circle())
+                                    .transition(.scale.combined(with: .opacity))
+                                    .offset(x: -50)
+                            }
+                        }
+                    )
+            }
+            .frame(width: 44)
+        }
     }
     
     var body: some View {
         ScrollViewReader { proxy in
             ZStack(alignment: .trailing) {
-                // Main content
                 ScrollView {
-                    VStack(alignment: .leading, spacing: 20) {
-                        if let bibleText = bibleText {
-                            ForEach(bibleText.chapters, id: \.chapterNumber) { chapter in
-                                VStack(alignment: .leading, spacing: 16) {
-                                    Text("\(chapter.chapterNumber)")
-                                        .font(.title)
-                                        .fontWeight(.bold)
-                                        .dynamicTypeSize(...DynamicTypeSize.accessibility3)
-                                        .foregroundColor(.primary)
-                                        .frame(maxWidth: .infinity)
-                                        .padding(.vertical)
-                                        .id(chapter.chapterNumber)
-                                    
-                                    ForEach(Array(chapter.sections.enumerated()), id: \.0) { index, section in
-                                        formatSection(section)
-                                    }
-                                }
-                                .padding(.horizontal)
-                                
-                                Divider()
-                                    .padding(.vertical)
+                    if let chapters = chapters {
+                        VStack(alignment: .leading, spacing: 20) {
+                            ForEach(chapters, id: \.number) { chapter in
+                                ChapterContentView(chapter: chapter)
                             }
-                        } else {
-                            ProgressView()
-                                .padding()
                         }
+                    } else {
+                        ProgressView()
+                            .padding()
                     }
                 }
                 
-                // Scroll bar area
-                GeometryReader { geometry in
-                    Rectangle()
-                        .fill(Color.clear)
-                        .frame(width: 44)
-                        .contentShape(Rectangle())
-                        .gesture(
-                            DragGesture(minimumDistance: 0)
-                                .onChanged { value in
-                                    isDragging = true
-                                    let percentage = min(max(value.location.y / geometry.size.height, 0), 1)
-                                    let targetChapter = Int(percentage * CGFloat(book.chapters)) + 1
-                                    currentChapter = max(1, min(book.chapters, targetChapter))
-                                    
-                                    withAnimation(.interactiveSpring()) {
-                                        proxy.scrollTo(currentChapter, anchor: .top)
-                                    }
-                                }
-                                .onEnded { _ in
-                                    withAnimation {
-                                        isDragging = false
-                                    }
-                                }
-                        )
-                        .overlay(
-                            Group {
-                                if isDragging {
-                                    Text("\(currentChapter)")
-                                        .font(.system(size: 16, weight: .bold))
-                                        .dynamicTypeSize(...DynamicTypeSize.accessibility3)
-                                        .foregroundColor(.white)
-                                        .frame(width: 40, height: 40)
-                                        .background(Color.accentColor)
-                                        .clipShape(Circle())
-                                        .transition(.scale.combined(with: .opacity))
-                                        .offset(x: -50)
-                                }
-                            }
-                        )
-                }
-                .frame(width: 44)
+                ScrollBarView(
+                    maxChapters: book.chapters,
+                    selectedChapter: $selectedChapter,
+                    isDragging: $isDragging,
+                    scrollProxy: proxy
+                )
             }
         }
         .navigationTitle(book.name)
@@ -112,11 +137,8 @@ struct ChapterView: View {
     }
     
     private func loadBook() {
-        if let text = BibleText.loadBook(named: book.name) {
-            bibleText = text
-        } else {
-            print("Failed to load book: \(book.name)")
-            // You might want to show an error message to the user
+        if let bookData = BibleDataManager.shared.loadBook(book.name) {
+            chapters = bookData.chapters
         }
     }
 }
@@ -153,3 +175,5 @@ struct ContentHeightKey: PreferenceKey {
         value = nextValue()
     }
 } 
+
+

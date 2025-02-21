@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>to Timothy, my genuine child in the faith. Grace, mercy, and peace from God the Father and Christ Jesus our Lord!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>As I urged you when I was leaving for Macedonia, stay on in Ephesus to instruct certain people not to spread false teachings,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>nor to occupy themselves with myths and interminable genealogies. Such things promote useless speculations rather than God’s redemptive plan that operates by faith.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>But the aim of our instruction is love that comes from a pure heart, a good conscience, and a sincere faith.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Some have strayed from these and turned away to empty discussion.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>They want to be teachers of the law, but they do not understand what they are saying or the things they insist on so confidently.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>But we know that the law is good if someone uses it legitimately,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>realizing that law is not intended for a righteous person, but for lawless and rebellious people, for the ungodly and sinners, for the unholy and profane, for those who kill their fathers or mothers, for murderers,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>sexually immoral people, practicing homosexuals, kidnappers, liars, perjurers—in fact, for any who live contrary to sound teaching.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>This accords with the glorious gospel of the blessed God that was entrusted to me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>I am grateful to the one who has strengthened me, Christ Jesus our Lord, because he considered me faithful in putting me into ministry,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>even though I was formerly a blasphemer and a persecutor, and an arrogant man. But I was treated with mercy because I acted ignorantly in unbelief,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>and our Lord’s grace was abundant, bringing faith and love in Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>This saying is trustworthy and deserves full acceptance: “Christ Jesus came into the world to save sinners”—and I am the worst of them!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>But here is why I was treated with mercy: so that in me as the worst, Christ Jesus could demonstrate his utmost patience, as an example for those who are going to believe in him for eternal life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Now to the eternal King, immortal, invisible, the only God, be honor and glory forever and ever! Amen.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>I put this charge before you, Timothy my child, in keeping with the prophecies once spoken about you, in order that with such encouragement you may fight the good fight.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>To do this you must hold firmly to faith and a good conscience, which some have rejected and so have suffered shipwreck in regard to the faith.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_1_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Among these are Hymenaeus and Alexander, whom I handed over to Satan to be taught not to blaspheme.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>First of all, then, I urge that requests, prayers, intercessions, and thanks be offered on behalf of all people,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>even for kings and all who are in authority, that we may lead a peaceful and quiet life in all godliness and dignity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Such prayer for all is good and welcomed before God our Savior,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>since he wants all people to be saved and to come to a knowledge of the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>For there is one God and one intermediary between God and humanity, Christ Jesus, himself human,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>who gave himself as a ransom for all, revealing God’s purpose at his appointed time.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For this I was appointed a preacher and apostle—I am telling the truth; I am not lying—and a teacher of the Gentiles in faith and truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>So I want the men in every place to pray, lifting up holy hands without anger or dispute.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Likewise the women are to dress in suitable apparel, with modesty and self-control. Their adornment must not be with braided hair and gold or pearls or expensive clothing,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>but with good deeds, as is proper for women who profess reverence for God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>A woman must learn quietly with all submissiveness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>But I do not allow a woman to teach or exercise authority over a man. She must remain quiet.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>For Adam was formed first and then Eve.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>And Adam was not deceived, but the woman, because she was fully deceived, fell into transgression.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_2_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>But she will be delivered through childbearing, if she continues in faith and love and holiness with self-control.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>This saying is trustworthy: “If someone aspires to the office of overseer, he desires a good work.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>The overseer then must be above reproach, the husband of one wife, temperate, self-controlled, respectable, hospitable, an able teacher,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>not a drunkard, not violent, but gentle, not contentious, free from the love of money.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>He must manage his own household well and keep his children in control without losing his dignity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>But if someone does not know how to manage his own household, how will he care for the church of God?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>He must not be a recent convert, or he may become arrogant and fall into the punishment that the devil will exact.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>And he must be well thought of by those outside the faith, so that he may not fall into disgrace and be caught by the devil’s trap.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Deacons likewise must be dignified, not two-faced, not given to excessive drinking, not greedy for gain,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>holding to the mystery of the faith with a clear conscience.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>And these also must be tested first and then let them serve as deacons if they are found blameless.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Likewise also their wives must be dignified, not slanderous, temperate, faithful in every respect.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Deacons must be husbands of one wife and good managers of their children and their own households.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>For those who have served well as deacons gain a good standing for themselves and great boldness in the faith that is in Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>I hope to come to you soon, but I am writing these instructions to you</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>in case I am delayed to let you know how people ought to conduct themselves in the household of God, because it is the church of the living God, the support and bulwark of the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_3_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>And we all agree, our religion contains amazing revelation: He was revealed in the flesh,vindicated by the Spirit, seen by angels,proclaimed among Gentiles,believed on in the world,taken up in glory.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>4</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Now the Spirit explicitly says that in the later times some will desert the faith and occupy themselves with deceiving spirits and demonic teachings,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>influenced by the hypocrisy of liars whose consciences are seared.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>They will prohibit marriage and require abstinence from foods that God created to be received with thanksgiving by those who believe and know the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>For every creation of God is good, and no food is to be rejected if it is received with thanksgiving.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>For it is sanctified by God’s word and by prayer.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>By pointing out such things to the brothers and sisters, you will be a good servant of Christ Jesus, having nourished yourself on the words of the faith and of the good teaching that you have followed.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>But reject those myths fit only for the godless and gullible, and train yourself for godliness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>For “physical exercise has some value, but godliness is valuable in every way. It holds promise for the present life and for the life to come.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>This saying is trustworthy and deserves full acceptance.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>In fact this is why we work hard and struggle, because we have set our hope on the living God, who is the Savior of all people, especially of believers.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Command and teach these things.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Let no one look down on you because you are young, but set an example for the believers in your speech, conduct, love, faithfulness, and purity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Until I come, give attention to the public reading of scripture, to exhortation, to teaching.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Do not neglect the spiritual gift you have, given to you and confirmed by prophetic words when the elders laid hands on you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Take pains with these things; be absorbed in them, so that everyone will see your progress.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_4_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>Be conscientious about how you live and what you teach. Persevere in this, because by doing so you will save both yourself and those who listen to you.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>5</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Do not address an older man harshly but appeal to him as a father. Speak to younger men as brothers,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>older women as mothers, and younger women as sisters—with complete purity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Honor widows who are truly in need.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>But if a widow has children or grandchildren, they should first learn to fulfill their duty toward their own household and so repay their parents what is owed them. For this is what pleases God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>But the widow who is truly in need, and completely on her own, has set her hope on God and continues in her pleas and prayers night and day.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>But the one who lives for pleasure is dead even while she lives.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Reinforce these commands, so that they will be beyond reproach.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>But if someone does not provide for his own, especially his own family, he has denied the faith and is worse than an unbeliever.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>No widow should be put on the list unless she is at least sixty years old, was the wife of one husband,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>and has a reputation for good works: as one who has raised children, practiced hospitality, washed the feet of the saints, helped those in distress—as one who has exhibited all kinds of good works.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>But do not accept younger widows on the list, because their passions may lead them away from Christ and they will desire to marry,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>and so incur judgment for breaking their former pledge.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>And besides that, going around from house to house they learn to be lazy, and they are not only lazy, but also gossips and busybodies, talking about things they should not.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>So I want younger women to marry, raise children, and manage a household, in order to give the adversary no opportunity to vilify us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>For some have already wandered away to follow Satan.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>If a believing woman has widows in her family, let her help them. The church should not be burdened so that it may help the widows who are truly in need.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Elders who provide effective leadership must be counted worthy of double honor, especially those who work hard in speaking and teaching.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>For the scripture says, “[Do not muzzle an ox while it is treading out the grain] ,” and, “The worker deserves his pay.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Do not accept an accusation against an elder unless it can be confirmed by two or three witnesses.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Those guilty of sin must be rebuked before all, as a warning to the rest.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_21</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Before God and Christ Jesus and the elect angels, I solemnly charge you to carry out these commands without prejudice or favoritism of any kind.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_22</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>Do not lay hands on anyone hastily and so identify with the sins of others. Keep yourself pure.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_23</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>(Stop drinking just water, but use a little wine for your digestion and your frequent illnesses.)</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_24</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>The sins of some people are obvious, going before them into judgment, but for others, they show up later.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_5_25</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>Similarly good works are also obvious, and the ones that are not cannot remain hidden.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>6</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Those who are under the yoke as slaves must regard their own masters as deserving of full respect. This will prevent the name of God and Christian teaching from being discredited.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>But those who have believing masters must not show them less respect because they are brothers. Instead they are to serve all the more, because those who benefit from their service are believers and dearly loved. Teach them and exhort them about these things.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>If someone spreads false teachings and does not agree with sound words (that is, those of our Lord Jesus Christ) and with the teaching that accords with godliness,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>he is conceited and understands nothing, but has an unhealthy interest in controversies and verbal disputes. This gives rise to envy, dissension, slanders, evil suspicions,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>and constant bickering by people corrupted in their minds and deprived of the truth, who suppose that godliness is a way of making a profit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Now godliness combined with contentment brings great profit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For we have brought nothing into this world and so we cannot take a single thing out either.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>But if we have food and shelter, we will be satisfied with that.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Those who long to be rich, however, stumble into temptation and a trap and many senseless and harmful desires that plunge people into ruin and destruction.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>For the love of money is the root of all evils. Some people in reaching for it have strayed from the faith and stabbed themselves with many pains.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>But you, as a person dedicated to God, keep away from all that. Instead pursue righteousness, godliness, faithfulness, love, endurance, and gentleness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Compete well for the faith and lay hold of that eternal life you were called for and made your good confession for in the presence of many witnesses.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>I charge you before God who gives life to all things and Christ Jesus who made his good confession before Pontius Pilate,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>to obey this command without fault or failure until the appearing of our Lord Jesus Christ</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>—whose appearing the blessed and only Sovereign, the King of kings and Lord of lords, will reveal at the right time.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>He alone possesses immortality and lives in unapproachable light, whom no human has ever seen or is able to see. To him be honor and eternal power! Amen.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Command those who are rich in this world’s goods not to be haughty or to set their hope on riches, which are uncertain, but on God who richly provides us with all things for our enjoyment.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Tell them to do good, to be rich in good deeds, to be generous givers, sharing with others.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>In this way they will save up a treasure for themselves as a firm foundation for the future and so lay hold of what is truly life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>O Timothy, protect what has been entrusted to you. Avoid the profane chatter and absurdities of so-called “knowledge.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Timothy_6_21</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>By professing it, some have strayed from the faith. Grace be with you all.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>1+Timothy</string>
+</dict>
+</plist>

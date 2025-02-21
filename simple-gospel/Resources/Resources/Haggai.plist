@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>On the first day of the sixth month of King Darius’ second year, the Lord’s message came through the prophet Haggai to Zerubbabel son of Shealtiel, governor of Judah, and to the high priest Joshua son of Jehozadak:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>This is what the Lord of Heaven’s Armies has said: “These people have said, ‘The time for rebuilding the Lord’s temple has not yet come.’”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>The Lord’s message came through the prophet Haggai as follows:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>“Is it right for you to live in richly paneled houses while my temple is in ruins?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Here then, this is what the Lord of Heaven’s Armies has said: ‘Think carefully about what you are doing.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>You have planted much, but have harvested little. You eat, but are never filled. You drink, but are still thirsty. You put on clothes, but are not warm. Those who earn wages end up with holes in their money bags.’”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Moreover, this is what the Lord of Heaven’s Armies has said: “Pay close attention to these things also.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Go up to the hill country and bring back timber to build the temple. Then I will be pleased and honored,” says the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>“You expected a large harvest, but instead there was little. And when you would bring it home, I would blow it right away. Why?” asks the Lord of Heaven’s Armies. “Because my temple remains in ruins, thanks to each of you favoring his own house!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>This is why the sky has held back its dew and the earth its produce.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Moreover, I have called for a drought that will affect the fields, the hill country, the grain, new wine, fresh olive oil, and everything that grows from the ground; it also will harm people, animals, and everything they produce.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Then Zerubbabel son of Shealtiel and the high priest Joshua son of Jehozadak, along with the whole remnant of the people, obeyed the Lord their God. They responded favorably to the message of the prophet Haggai, who spoke just as the Lord their God had instructed him, and the people began to respect the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Then Haggai, the Lord’s messenger, spoke the Lord’s announcement to the people: “I am with you,” decrees the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>So the Lord energized and encouraged Zerubbabel son of Shealtiel, governor of Judah, the high priest Joshua son of Jehozadak, and the whole remnant of the people. They came and worked on the temple of their God, the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_1_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>This took place on the twenty-fourth day of the sixth month of King Darius’ second year.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>On the twenty-first day of the seventh month, the Lord’s message came through the prophet Haggai again:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>“Ask the following questions to Zerubbabel son of Shealtiel, governor of Judah, the high priest Joshua son of Jehozadak, and the remnant of the people:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>‘Who among you survivors saw the former splendor of this temple? How does it look to you now? Isn’t it nothing by comparison?’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Even so, take heart, Zerubbabel,” decrees the Lord. “Take heart, Joshua son of Jehozadak, the high priest. And take heart all you citizens of the land,” decrees the Lord, “and begin to work. For I am with you,” decrees the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>“Do not fear, because I made a promise to your ancestors when they left Egypt, and my Spirit even now testifies to you.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Moreover, this is what the Lord of Heaven’s Armies has said: “In just a little while I will once again shake the sky and the earth, the sea and the dry ground.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>I will also shake up all the nations, and they will offer their treasures; then I will fill this temple with glory.” So the Lord of Heaven’s Armies has said.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>“The silver and gold will be mine,” decrees the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>“The future splendor of this temple will be greater than that of former times,” the Lord of Heaven’s Armies has declared. “And in this place I will give peace,” decrees the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>On the twenty-fourth day of the ninth month of Darius’ second year, the Lord’s message came to the prophet Haggai:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>“This is what the Lord of Heaven’s Armies has said, ‘Ask the priests about the law.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>If someone carries holy meat in a fold of his garment and that fold touches bread, a boiled dish, wine, olive oil, or any other food, will that item become holy?’” The priests answered, “It will not.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Then Haggai asked, “If a person who is ritually unclean because of touching a dead body comes in contact with one of these items, will it become unclean?” The priests answered, “It will be unclean.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Then Haggai responded, “‘The people of this nation are unclean in my sight,’ decrees the Lord. ‘And so is all their effort; everything they offer is also unclean.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Now therefore reflect carefully on the recent past, before one stone was laid on another in the Lord’s temple.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>From that time when one came expecting a heap of 20 measures, there were only 10; when one came to the wine vat to draw out 50 measures from it, there were only 20.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>I struck all the products of your labor with blight, disease, and hail, and yet you brought nothing to me,’ says the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>‘Think carefully about the past: from today, the twenty-fourth day of the ninth month, to the day work on the temple of the Lord was resumed, think about it.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>The seed is still in the storehouse, isn’t it? And the vine, fig tree, pomegranate, and olive tree have not produced. Nevertheless, from today on I will bless you.’”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Then the Lord spoke to Haggai a second time on the twenty-fourth day of the month:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>“Tell Zerubbabel governor of Judah: ‘I am ready to shake the sky and the earth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>I will overthrow royal thrones and shatter the might of earthly kingdoms. I will overthrow chariots and those who ride them, and horses and their riders will fall as people kill one another.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Haggai_2_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>On that day,’ says the Lord of Heaven’s Armies, ‘I will take you, Zerubbabel son of Shealtiel, my servant,’ says the Lord, ‘and I will make you like a signet ring, for I have chosen you,’ says the Lord of Heaven’s Armies.”</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Haggai</string>
+</dict>
+</plist>

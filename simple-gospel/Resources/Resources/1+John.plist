@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>This is what we proclaim to you: what was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and our hands have touched (concerning the word of life—</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>and the life was revealed, and we have seen and testify and announce to you the eternal life that was with the Father and was revealed to us).</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>What we have seen and heard we announce to you too, so that you may have fellowship with us (and indeed our fellowship is with the Father and with his Son Jesus Christ).</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Thus we are writing these things so that our joy may be complete.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Now this is the gospel message we have heard from him and announce to you: God is light, and in him there is no darkness at all.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>If we say we have fellowship with him and yet keep on walking in the darkness, we are lying and not practicing the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>But if we walk in the light as he himself is in the light, we have fellowship with one another and the blood of Jesus his Son cleanses us from all sin.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>If we say we do not bear the guilt of sin, we are deceiving ourselves and the truth is not in us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>But if we confess our sins, he is faithful and righteous, forgiving us our sins and cleansing us from all unrighteousness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>If we say we have not sinned, we make him a liar and his word is not in us.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Now by this we know that we have come to know God: if we keep his commandments.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>The one who says “I have come to know God” and yet does not keep his commandments is a liar, and the truth is not in such a person.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>But whoever obeys his word, truly in this person the love of God has been perfected. By this we know that we are in him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>The one who says he resides in God ought himself to walk just as Jesus walked.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Dear friends, I am not writing a new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word that you have already heard.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>On the other hand, I am writing a new commandment to you, which is true in him and in you, because the darkness is passing away and the true light is already shining.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>The one who says he is in the light but still hates his fellow Christian is still in the darkness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>The one who loves his fellow Christian resides in the light, and there is no cause for stumbling in him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>But the one who hates his fellow Christian is in the darkness, walks in the darkness, and does not know where he is going because the darkness has blinded his eyes.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>I am writing to you, little children, that your sins have been forgiven because of his name.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>I am writing to you, fathers, that you have known him who has been from the beginning. I am writing to you, young people, that you have conquered the evil one.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>I have written to you, children, that you have known the Father. I have written to you, fathers, that you have known him who has been from the beginning. I have written to you, young people, that you are strong, and the word of God resides in you, and you have conquered the evil one.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>because all that is in the world (the desire of the flesh and the desire of the eyes and the arrogance produced by material possessions) is not from the Father, but is from the world.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>And the world is passing away with all its desires, but the person who does the will of God remains forever.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Children, it is the last hour, and just as you heard that the antichrist is coming, so now many antichrists have appeared. We know from this that it is the last hour.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>They went out from us, but they did not really belong to us because if they had belonged to us, they would have remained with us. But they went out from us to demonstrate that all of them do not belong to us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Nevertheless you have an anointing from the Holy One, and you all know.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>I have not written to you that you do not know the truth, but that you do know it, and that no lie is of the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>Who is the liar but the person who denies that Jesus is the Christ? This one is the antichrist: the person who denies the Father and the Son.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>Everyone who denies the Son does not have the Father either. The person who confesses the Son has the Father also.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_24</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>As for you, what you have heard from the beginning must remain in you. If what you heard from the beginning remains in you, you also will remain in the Son and in the Father.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_25</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>Now this is the promise that he himself made to us: eternal life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_26</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>26</integer>
+					<key>text</key>
+					<string>These things I have written to you about those who are trying to deceive you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_27</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>27</integer>
+					<key>text</key>
+					<string>Now as for you, the anointing that you received from him resides in you, and you have no need for anyone to teach you. But as his anointing teaches you about all things, it is true and is not a lie. Just as it has taught you, you reside in him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_28</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>28</integer>
+					<key>text</key>
+					<string>And now, little children, remain in him, so that when he appears we may have confidence and not shrink away from him in shame when he comes back.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_2_29</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>29</integer>
+					<key>text</key>
+					<string>If you know that he is righteous, you also know that everyone who practices righteousness has been fathered by him.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>(See what sort of love the Father has given to us: that we should be called God’s children—and indeed we are! For this reason the world does not know us: Because it did not know him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>Dear friends, we are God’s children now, and what we will be has not yet been revealed. We know that whenever it is revealed we will be like him because we will see him just as he is.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>And everyone who has this hope focused on him purifies himself, just as Jesus is pure).</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Everyone who practices sin also practices lawlessness; indeed, sin is lawlessness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>And you know that Jesus was revealed to take away sins, and in him there is no sin.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Everyone who resides in him does not sin; everyone who sins has neither seen him nor known him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Little children, let no one deceive you: The one who practices righteousness is righteous, just as Jesus is righteous.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>The one who practices sin is of the devil because the devil has been sinning from the beginning. For this purpose the Son of God was revealed: to destroy the works of the devil.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Everyone who has been fathered by God does not practice sin because God’s seed resides in them, and thus they are not able to sin because they have been fathered by God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>By this the children of God and the children of the devil are revealed: Everyone who does not practice righteousness—the one who does not love his fellow Christian—is not of God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>For this is the gospel message that you have heard from the beginning: that we should love one another,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>not like Cain who was of the evil one and brutally murdered his brother. And why did he murder him? Because his deeds were evil, but his brother’s were righteous.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Therefore do not be surprised, brothers and sisters, if the world hates you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>We know that we have crossed over from death to life because we love our fellow Christians. The one who does not love remains in death.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Everyone who hates his fellow Christian is a murderer, and you know that no murderer has eternal life residing in him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>We have come to know love by this: that Jesus laid down his life for us; thus we ought to lay down our lives for our fellow Christians.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>But whoever has the world’s possessions and sees his fellow Christian in need and shuts off his compassion against him, how can the love of God reside in such a person?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Little children, let us not love with word or with tongue but in deed and truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>And by this we will know that we are of the truth and will convince our conscience in his presence,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>that if our conscience condemns us, that God is greater than our conscience and knows all things.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Dear friends, if our conscience does not condemn us, we have confidence in the presence of God,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>and whatever we ask we receive from him, because we keep his commandments and do the things that are pleasing to him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>Now this is his commandment: that we believe in the name of his Son Jesus Christ and love one another, just as he gave us the commandment.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_3_24</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>And the person who keeps his commandments resides in God, and God in him. Now by this we know that God resides in us: by the Spirit he has given us.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>4</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Dear friends, do not believe every spirit, but test the spirits to determine if they are from God, because many false prophets have gone out into the world.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>By this you know the Spirit of God: Every spirit that confesses Jesus as the Christ who has come in the flesh is from God,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>but every spirit that refuses to confess Jesus, that spirit is not from God, and this is the spirit of the antichrist, which you have heard is coming, and now is already in the world.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>You are from God, little children, and have conquered them because the one who is in you is greater than the one who is in the world.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>They are from the world; therefore they speak from the world’s perspective and the world listens to them.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>We are from God; the person who knows God listens to us, but whoever is not from God does not listen to us. By this we know the Spirit of truth and the spirit of deceit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Dear friends, let us love one another, because love is from God, and everyone who loves has been fathered by God and knows God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>The person who does not love does not know God because God is love.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>By this the love of God is revealed in us: that God has sent his one and only Son into the world so that we may live through him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>In this is love: not that we have loved God, but that he loved us and sent his Son to be the atoning sacrifice for our sins.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Dear friends, if God so loved us, then we also ought to love one another.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>No one has seen God at any time. If we love one another, God resides in us, and his love is perfected in us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>By this we know that we reside in God and he in us: in that he has given us of his Spirit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>And we have seen and testify that the Father has sent the Son to be the Savior of the world.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>If anyone confesses that Jesus is the Son of God, God resides in him and he in God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>And we have come to know and to believe the love that God has in us. God is love, and the one who resides in love resides in God, and God resides in him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>By this love is perfected with us, so that we may have confidence in the day of judgment, because just as Jesus is, so also are we in this world.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>There is no fear in love, but perfect love drives out fear because fear has to do with punishment. The one who fears punishment has not been perfected in love.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>We love because he loved us first.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>If anyone says “I love God” and yet hates his fellow Christian, he is a liar because the one who does not love his fellow Christian whom he has seen cannot love God whom he has not seen.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_4_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>And the commandment we have from him is this: that the one who loves God should love his fellow Christian too.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>5</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Everyone who believes that Jesus is the Christ has been fathered by God, and everyone who loves the father loves the child fathered by him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>By this we know that we love the children of God: whenever we love God and obey his commandments.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>For this is the love of God: that we keep his commandments. And his commandments do not weigh us down,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>because everyone who has been fathered by God conquers the world. This is the conquering power that has conquered the world: our faith.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Now who is the person who has conquered the world except the one who believes that Jesus is the Son of God?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Jesus Christ is the one who came by water and blood—not by the water only, but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For there are three that testify,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>the Spirit and the water and the blood, and these three are in agreement.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>If we accept the testimony of men, the testimony of God is greater because this is the testimony of God that he has testified concerning his Son.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>(The one who believes in the Son of God has the testimony in himself; the one who does not believe God has made him a liar because he has not believed in the testimony that God has testified concerning his Son.)</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>And this is the testimony: God has given us eternal life, and this life is in his Son.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>The one who has the Son has this eternal life; the one who does not have the Son of God does not have this eternal life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>I have written these things to you who believe in the name of the Son of God so that you may know that you have eternal life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>And this is the confidence that we have before him: that whenever we ask anything according to his will, he hears us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>And if we know that he hears us in regard to whatever we ask, then we know that we have the requests that we have asked from him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>If anyone sees his fellow Christian committing a sin not resulting in death, he should ask, and God will grant life to the person who commits a sin not resulting in death. There is a sin resulting in death. I do not say that he should ask about that.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>All unrighteousness is sin, but there is sin not resulting in death.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>We know that everyone fathered by God does not sin, but God protects the one he has fathered, and the evil one cannot touch him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>We know that we are from God, and the whole world lies in the power of the evil one.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>And we know that the Son of God has come and has given us insight to know him who is true, and we are in him who is true, in his Son Jesus Christ. This one is the true God and eternal life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+John_5_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Little children, guard yourselves from idols.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>1+John</string>
+</dict>
+</plist>

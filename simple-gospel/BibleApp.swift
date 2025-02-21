@@ -10,9 +10,12 @@ import SwiftUI
 
 @main
 struct BibleApp: App {
+    @StateObject private var settings = SettingsManager()
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(settings)
         }
     }
 } 

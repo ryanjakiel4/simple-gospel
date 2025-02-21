@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From Jude, a slave of Jesus Christ and brother of James, to those who are called, wrapped in the love of God the Father and kept for Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>May mercy, peace, and love be lavished on you!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Dear friends, although I have been eager to write to you about our common salvation, I now feel compelled instead to write to encourage you to contend earnestly for the faith that was once for all entrusted to the saints.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>For certain men have secretly slipped in among you—men who long ago were marked out for the condemnation I am about to describe—ungodly men who have turned the grace of our God into a license for evil and who deny our only Master and Lord, Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Now I desire to remind you (even though you have been fully informed of these facts once for all) that Jesus, having saved the people out of the land of Egypt, later destroyed those who did not believe.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>You also know that the angels who did not keep within their proper domain but abandoned their own place of residence, he has kept in eternal chains in utter darkness, locked up for the judgment of the great Day.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>So also Sodom and Gomorrah and the neighboring towns, since they indulged in sexual immorality and pursued unnatural desire in a way similar to these angels, are now displayed as an example by suffering the punishment of eternal fire.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Yet these men, as a result of their dreams, defile the flesh, reject authority, and insult the glorious ones.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>But even when Michael the archangel was arguing with the devil and debating with him concerning Moses’ body, he did not dare to bring a slanderous judgment, but said, “May the Lord rebuke you!”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>But these men do not understand the things they slander, and they are being destroyed by the very things that, like irrational animals, they instinctively comprehend.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Woe to them! For they have traveled down Cain’s path, and because of greed have abandoned themselves to Balaam’s error; hence, they will certainly perish in Korah’s rebellion.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>These men are dangerous reefs at your love feasts, feasting without reverence, feeding only themselves. They are waterless clouds, carried along by the winds; autumn trees without fruit—twice dead, uprooted;</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>wild sea waves, spewing out the foam of their shame; wayward stars for whom the utter depths of eternal darkness have been reserved.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Now Enoch, the seventh in descent beginning with Adam, even prophesied of them, saying, “Look! The Lord is coming with thousands and thousands of his holy ones,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>to execute judgment on all, and to convict every person of all their thoroughly ungodly deeds that they have committed, and of all the harsh words that ungodly sinners have spoken against him.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>These people are grumblers and fault-finders who go wherever their desires lead them, and they give bombastic speeches, enchanting folks for their own gain.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>But you, dear friends—recall the predictions foretold by the apostles of our Lord Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>For they said to you, “At the end of time there will come scoffers, propelled by their own ungodly desires.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>These people are divisive, worldly, devoid of the Spirit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>But you, dear friends, by building yourselves up in your most holy faith, by praying in the Holy Spirit,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>maintain yourselves in the love of God while anticipating the mercy of our Lord Jesus Christ that brings eternal life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>And have mercy on those who waver;</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>save others by snatching them out of the fire; have mercy on others, coupled with a fear of God, hating even the clothes stained by the flesh.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_24</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>Now to the one who is able to keep you from falling, and to cause you to stand, rejoicing, without blemish before his glorious presence,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Jude_1_25</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>to the only God our Savior through Jesus Christ our Lord, be glory, majesty, power, and authority, before all time, and now, and for all eternity. Amen.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Jude</string>
+</dict>
+</plist>

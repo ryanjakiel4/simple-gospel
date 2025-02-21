@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From Paul and Timothy, slaves of Christ Jesus, to all the saints in Christ Jesus who are in Philippi, with the overseers and deacons.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>Grace and peace to you from God our Father and the Lord Jesus Christ!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>I thank my God every time I remember you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>I always pray with joy in my every prayer for all of you</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>because of your participation in the gospel from the first day until now.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>For I am sure of this very thing, that the one who began a good work in you will perfect it until the day of Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For it is right for me to think this about all of you, because I have you in my heart, since both in my imprisonment and in the defense and confirmation of the gospel all of you became partners in God’s grace together with me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>For God is my witness that I long for all of you with the affection of Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>And I pray this, that your love may abound even more and more in knowledge and every kind of insight</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>so that you can decide what is best, and thus be sincere and blameless for the day of Christ,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>filled with the fruit of righteousness that comes through Jesus Christ to the glory and praise of God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>I want you to know, brothers and sisters, that my situation has actually turned out to advance the gospel:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>The whole imperial guard and everyone else knows that I am in prison for the sake of Christ,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>and most of the brothers and sisters, having confidence in the Lord because of my imprisonment, now more than ever dare to speak the word fearlessly.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Some, to be sure, are preaching Christ from envy and rivalry, but others from goodwill.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>The latter do so from love because they know that I am placed here for the defense of the gospel.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>The former proclaim Christ from selfish ambition, not sincerely, because they think they can cause trouble for me in my imprisonment.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>What is the result? Only that in every way, whether in pretense or in truth, Christ is being proclaimed, and in this I rejoice.Yes, and I will continue to rejoice,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>for I know that this will turn out for my deliverance through your prayers and the help of the Spirit of Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>My confident hope is that I will in no way be ashamed but that with complete boldness, even now as always, Christ will be exalted in my body, whether I live or die.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>For to me, living is Christ and dying is gain.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>Now if I am to go on living in the body, this will mean productive work for me, yet I don’t know which I prefer:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>I feel torn between the two because I have a desire to depart and be with Christ, which is better by far,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_24</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>but it is more vital for your sake that I remain in the body.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_25</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>And since I am sure of this, I know that I will remain and continue with all of you for the sake of your progress and joy in the faith,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_26</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>26</integer>
+					<key>text</key>
+					<string>so that what you can be proud of may increase because of me in Christ Jesus, when I come back to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_27</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>27</integer>
+					<key>text</key>
+					<string>Only conduct yourselves in a manner worthy of the gospel of Christ so that—whether I come and see you or whether I remain absent—I should hear that you are standing firm in one spirit, with one mind, by contending side by side for the faith of the gospel,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_28</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>28</integer>
+					<key>text</key>
+					<string>and by not being intimidated in any way by your opponents. This is a sign of their destruction, but of your salvation—a sign which is from God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_29</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>29</integer>
+					<key>text</key>
+					<string>For it has been granted to you not only to believe in Christ but also to suffer for him,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_1_30</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>30</integer>
+					<key>text</key>
+					<string>since you are encountering the same conflict that you saw me face and now hear that I am facing.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Therefore, if there is any encouragement in Christ, any comfort provided by love, any fellowship in the Spirit, any affection or mercy,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>complete my joy and be of the same mind, by having the same love, being united in spirit, and having one purpose.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Instead of being motivated by selfish ambition or vanity, each of you should, in humility, be moved to treat one another as more important than yourself.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Each of you should be concerned not only about your own interests, but about the interests of others as well.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>You should have the same attitude toward one another that Christ Jesus had,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>who, though he existed in the form of God, did not regard equality with Godas something to be grasped,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>but emptied himselfby taking on the form of a slave, by looking like other men, and by sharing in human nature.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>He humbled himself by becoming obedient to the point of death—even death on a cross!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>As a result God highly exalted himand gave him the namethat is above every name,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>so that at the name of Jesusevery knee will bow—in heaven and on earth and under the earth—</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>and every tongue confessthat Jesus Christ is Lordto the glory of God the Father.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>So then, my dear friends, just as you have always obeyed, not only in my presence but even more in my absence, continue working out your salvation with awe and reverence,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>for the one bringing forth in you both the desire and the effort—for the sake of his good pleasure—is God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Do everything without grumbling or arguing,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>so that you may be blameless and pure, children of God without blemish though you live in a crooked and perverse society, in which you shine as lights in the world</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>by holding on to the word of life so that on the day of Christ I will have a reason to boast: that I did not run in vain nor labor in vain.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>But even if I am being poured out like a drink offering on the sacrifice and service of your faith, I am glad and rejoice together with all of you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>And in the same way you also should be glad and rejoice together with me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Now I hope in the Lord Jesus to send Timothy to you soon, so that I, too, may be encouraged by hearing news about you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>For there is no one here like him who will readily demonstrate his deep concern for you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_21</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Others are busy with their own concerns, not those of Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_22</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>But you know his qualifications that like a son working with his father, he served with me in advancing the gospel.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_23</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>So I hope to send him as soon as I know more about my situation,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_24</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>though I am confident in the Lord that I, too, will be coming to see you soon.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_25</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>But for now I have considered it necessary to send Epaphroditus to you. For he is my brother, coworker and fellow soldier, and your messenger and minister to me in my need.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_26</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>26</integer>
+					<key>text</key>
+					<string>Indeed, he greatly missed all of you and was distressed because you heard that he had been ill.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_27</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>27</integer>
+					<key>text</key>
+					<string>In fact he became so ill that he nearly died. But God showed mercy to him—and not to him only, but also to me—so that I would not have grief on top of grief.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_28</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>28</integer>
+					<key>text</key>
+					<string>Therefore I am all the more eager to send him, so that when you see him again you can rejoice and I can be free from anxiety.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_29</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>29</integer>
+					<key>text</key>
+					<string>So welcome him in the Lord with great joy, and honor people like him,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_2_30</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>30</integer>
+					<key>text</key>
+					<string>since it was because of the work of Christ that he almost died. He risked his life so that he could make up for your inability to serve me.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Finally, my brothers and sisters, rejoice in the Lord! To write this again is no trouble to me, and it is a safeguard for you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>Beware of the dogs, beware of the evil workers, beware of those who mutilate the flesh!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>For we are the circumcision, the ones who worship by the Spirit of God, exult in Christ Jesus, and do not rely on human credentials</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>—though mine, too, are significant. If someone thinks he has good reasons to put confidence in human credentials, I have more:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>I was circumcised on the eighth day, from the people of Israel and the tribe of Benjamin, a Hebrew of Hebrews. I lived according to the law as a Pharisee.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>In my zeal for God I persecuted the church. According to the righteousness stipulated in the law I was blameless.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>But these assets I have come to regard as liabilities because of Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>More than that, I now regard all things as liabilities compared to the far greater value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things —indeed, I regard them as dung!—that I may gain Christ</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>and be found in him, not because I have my own righteousness derived from the law, but because I have the righteousness that comes by way of Christ’s faithfulness—a righteousness from God that is in fact based on Christ’s faithfulness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>My aim is to know him, to experience the power of his resurrection, to share in his sufferings, and to be like him in his death,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>and so, somehow, to attain to the resurrection from the dead.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Not that I have already attained this—that is, I have not already been perfected—but I strive to lay hold of that for which Christ Jesus also laid hold of me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Brothers and sisters, I do not consider myself to have attained this. Instead I am single-minded: Forgetting the things that are behind and reaching out for the things that are ahead,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>with this goal in mind, I strive toward the prize of the upward call of God in Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Therefore let those of us who are “perfect” embrace this point of view. If you think otherwise, God will reveal to you the error of your ways.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>Nevertheless, let us live up to the standard that we have already attained.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Be imitators of me, brothers and sisters, and watch carefully those who are living this way, just as you have us as an example.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>For many live, about whom I have often told you, and now, with tears, I tell you that they are the enemies of the cross of Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Their end is destruction, their god is the belly, they exult in their shame, and they think about earthly things.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>But our citizenship is in heaven—and we also eagerly await a savior from there, the Lord Jesus Christ,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_3_21</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>who will transform these humble bodies of ours into the likeness of his glorious body by means of that power by which he is able to subject all things to himself.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>4</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>So then, my brothers and sisters, dear friends whom I long to see, my joy and crown, stand in the Lord in this way, my dear friends!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>I appeal to Euodia and to Syntyche to agree in the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Yes, I say also to you, true companion, help them. They have struggled together in the gospel ministry along with me and Clement and my other coworkers, whose names are in the book of life.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Rejoice in the Lord always. Again I say, rejoice!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Let everyone see your gentleness. The Lord is near!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Do not be anxious about anything. Instead, in every situation, through prayer and petition with thanksgiving, tell your requests to God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>And the peace of God that surpasses all understanding will guard your hearts and minds in Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Finally, brothers and sisters, whatever is true, whatever is worthy of respect, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if something is excellent or praiseworthy, think about these things.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>And what you learned and received and heard and saw in me, do these things. And the God of peace will be with you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>I have great joy in the Lord because now at last you have again expressed your concern for me. (Now I know you were concerned before but had no opportunity to do anything.)</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>I am not saying this because I am in need, for I have learned to be content in any circumstance.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>I have experienced times of need and times of abundance. In any and every circumstance I have learned the secret of contentment, whether I go satisfied or hungry, have plenty or nothing.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>I am able to do all things through the one who strengthens me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Nevertheless, you did well to share with me in my trouble.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>And as you Philippians know, at the beginning of my gospel ministry, when I left Macedonia, no church shared with me in this matter of giving and receiving except you alone.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>For even in Thessalonica on more than one occasion you sent something for my need.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>I do not say this because I am seeking a gift. Rather, I seek the credit that abounds to your account.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>For I have received everything, and I have plenty. I have all I need because I received from Epaphroditus what you sent—a fragrant offering, an acceptable sacrifice, very pleasing to God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>And my God will supply your every need according to his glorious riches in Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>May glory be given to God our Father forever and ever. Amen.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_21</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Give greetings to all the saints in Christ Jesus. The brothers with me here send greetings.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_22</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>All the saints greet you, especially those who belong to Caesar’s household.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philippians_4_23</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>The grace of the Lord Jesus Christ be with your spirit.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Philippians</string>
+</dict>
+</plist>

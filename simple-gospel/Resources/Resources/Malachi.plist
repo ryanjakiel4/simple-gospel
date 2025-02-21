@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>This is an oracle, the Lord’s message to Israel through Malachi:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>“I have shown love to you,” says the Lord, but you say, “How have you shown love to us?” “Esau was Jacob’s brother,” the Lord explains, “yet I chose Jacob</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>and rejected Esau. I turned Esau’s mountains into a deserted wasteland and gave his territory to the wild jackals.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Edom says, “Though we are devastated, we will once again build the ruined places.” So the Lord of Heaven’s Armies responds, “They indeed may build, but I will overthrow. They will be known as the land of evil, the people with whom the Lord is permanently displeased.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Your eyes will see it, and then you will say, ‘May the Lord be magnified even beyond the border of Israel!’”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>“A son naturally honors his father and a slave respects his master. If I am your father, where is my honor? If I am your master, where is my respect? The Lord of Heaven’s Armies asks you this, you priests who make light of my name! But you reply, ‘How have we made light of your name?’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>You are offering improper sacrifices on my altar, yet you ask, ‘How have we offended you?’ By treating the table of the Lord as if it is of no importance.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>For when you offer blind animals as a sacrifice, is that not wrong? And when you offer the lame and sick, is that not wrong as well? Indeed, try offering them to your governor! Will he be pleased with you or show you favor?” asks the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>“But now plead for God’s favor that he might be gracious to us.” “With this kind of offering in your hands, how can he be pleased with you?” asks the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>“I wish that one of you would close the temple doors, so that you no longer would light useless fires on my altar. I am not pleased with you,” says the Lord of Heaven’s Armies, “and I will no longer accept an offering from you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>For from the east to the west my name will be great among the nations. Incense and pure offerings will be offered in my name everywhere, for my name will be great among the nations,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>“But you are profaning it by saying that the table of the Lord is common and its offerings despicable.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>You also say, ‘How tiresome it is.’ You turn up your nose at it,” says the Lord of Heaven’s Armies, “and instead bring what is stolen, lame, or sick. You bring these things for an offering! Should I accept this from you?” asks the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>“There will be harsh condemnation for the hypocrite who has a valuable male animal in his flock but vows and sacrifices something inferior to the Lord. For I am a great king,” says the Lord of Heaven’s Armies, “and my name is awesome among the nations.”</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>“Now, you priests, this commandment is for you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>If you do not listen and take seriously the need to honor my name,” says the Lord of Heaven’s Armies, “I will send judgment on you and turn your blessings into curses—indeed, I have already done so because you are not taking it to heart.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>I am about to discipline your children and will spread offal on your faces, the very offal produced at your festivals, and you will be carried away along with it.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Then you will know that I sent this commandment to you so that my covenant may continue to be with Levi,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>“My covenant with him was designed to bring life and peace. I gave its statutes to him to fill him with awe, and he indeed revered me and stood in awe before me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>He taught what was true; sinful words were not found on his lips. He walked with me in peace and integrity, and he turned many people away from sin.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For the lips of a priest should preserve knowledge of sacred things, and people should seek instruction from him because he is the messenger of the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>You, however, have turned from the way. You have caused many to violate the law; you have corrupted the covenant with Levi,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>“Therefore, I have caused you to be ignored and belittled before all people to the extent that you are not following after me and are showing partiality in your instruction.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>Do we not all have one father? Did not one God create us? Why do we betray one another, thus making light of the covenant of our ancestors?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Judah has become disloyal, and unspeakable sins have been committed in Israel and Jerusalem. For Judah has profaned the holy things that the Lord loves and has turned to a foreign god!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>May the Lord cut off from the community of Jacob every last person who does this, as well as the person who presents improper offerings to the Lord of Heaven’s Armies!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>You also do this: You cover the altar of the Lord with tears as you weep and groan, because he no longer pays any attention to the offering nor accepts it favorably from you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Yet you ask, “Why?” The Lord is testifying against you on behalf of the wife you married when you were young, to whom you have become unfaithful even though she is your companion and wife by law.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>No one who has even a small portion of the Spirit in him does this. What did our ancestor do when seeking a child from God? Be attentive, then, to your own spirit, for one should not be disloyal to the wife he took in his youth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>“I hate divorce,” says the Lord God of Israel, “and the one who is guilty of violence,” says the Lord of Heaven’s Armies. “Pay attention to your conscience, and do not be unfaithful.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_2_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>You have wearied the Lord with your words. But you say, “How have we wearied him?” Because you say, “Everyone who does evil is good in the Lord’s opinion, and he delights in them,” or, “Where is the God of justice?”</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>Who can endure the day of his coming? Who can keep standing when he appears? For he will be like a refiner’s fire, like a launderer’s soap.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>He will act like a refiner and purifier of silver and will cleanse the Levites and refine them like gold and silver. Then they will offer the Lord a proper offering.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>The offerings of Judah and Jerusalem will be pleasing to the Lord as in former times and years past.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>“I will come to you in judgment. I will be quick to testify against those who practice divination; those who commit adultery; those who break promises; and those who exploit workers, widows, and orphans, who refuse to help the resident foreigner and in this way show they do not fear me,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>“Since, I, the Lord, do not go back on my promises, you, sons of Jacob, have not perished.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>From the days of your ancestors you have ignored my commandments and have not kept them. Return to me, and I will return to you,” says the Lord of Heaven’s Armies. “But you say, ‘How should we return?’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Can a person rob God? You are indeed robbing me, but you say, ‘How are we robbing you?’ In tithes and contributions!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>You are bound for judgment because you are robbing me—this whole nation is guilty.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>“Bring the entire tithe into the storehouse so that there may be food in my temple. Test me in this matter,” says the Lord of Heaven’s Armies, “to see if I will not open for you the windows of heaven and pour out blessing for you until there is no room for it all.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Then I will stop the plague from ruining your crops, and the vine will not lose its fruit before harvest,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>“All nations will call you blessed, for you indeed will live in a delightful land,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>“You have criticized me sharply,” says the Lord, “but you ask, ‘How have we criticized you?’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>You have said, ‘It is useless to serve God. How have we been helped by keeping his requirements and going about like mourners before the Lord of Heaven’s Armies?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>So now we consider the arrogant to be blessed; indeed, those who practice evil are successful. In fact, those who challenge God escape!’”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>Then those who respected the Lord spoke to one another, and the Lord took notice. A scroll was prepared before him in which were recorded the names of those who respected the Lord and honored his name.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>“They will belong to me,” says the Lord of Heaven’s Armies, “in the day when I prepare my own special property. I will spare them as a man spares his son who serves him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_3_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Then once more you will see that I make a distinction between the righteous and the wicked, between the one who serves God and the one who does not.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>4</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Malachi_4_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>(3:19) “For indeed the day is coming, burning like a furnace, and all the arrogant evildoers will be chaff. The coming day will burn them up,” says the Lord of Heaven’s Armies. “It will not leave them even a root or branch.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_4_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>But for you who respect my name, the sun of vindication will rise with healing wings, and you will skip about like calves released from the stall.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_4_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>You will trample on the wicked, for they will be like ashes under the soles of your feet on the day that I am preparing,” says the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_4_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>“Remember the law of my servant Moses, to whom at Horeb I gave rules and regulations for all Israel to obey.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_4_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Look, I will send you Elijah the prophet before the great and terrible day of the Lord arrives.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Malachi_4_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>He will encourage fathers and their children to return to me, so that I will not come and strike the earth with judgment.”</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Malachi</string>
+</dict>
+</plist>

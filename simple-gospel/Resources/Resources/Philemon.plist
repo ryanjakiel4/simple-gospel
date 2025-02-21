@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our dear friend and colaborer,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>to Apphia our sister, to Archippus our fellow soldier, and to the church that meets in your house.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Grace and peace to you from God our Father and the Lord Jesus Christ!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>I always thank my God as I remember you in my prayers,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>because I hear of your faith in the Lord Jesus and your love for all the saints.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>I pray that the faith you share with us may deepen your understanding of every blessing that belongs to you in Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>I have had great joy and encouragement because of your love, for the hearts of the saints have been refreshed through you, brother.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>So, although I have quite a lot of confidence in Christ and could command you to do what is proper,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>I would rather appeal to you on the basis of love—I, Paul, an old man and even now a prisoner for the sake of Christ Jesus—</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>I am appealing to you concerning my child, whose spiritual father I have become during my imprisonment, that is, Onesimus,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>who was formerly useless to you, but is now useful to you and me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>I have sent him (who is my very heart) back to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>I wanted to keep him with me so that he could serve me in your place during my imprisonment for the sake of the gospel.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>However, without your consent I did not want to do anything so that your good deed would not be out of compulsion, but from your own willingness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>For perhaps it was for this reason that he was separated from you for a little while so that you would have him back eternally,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>no longer as a slave, but more than a slave, as a dear brother. He is especially so to me, and even more so to you now, both humanly speaking and in the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Therefore if you regard me as a partner, accept him as you would me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Now if he has defrauded you of anything or owes you anything, charge what he owes to me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>I, Paul, have written this letter with my own hand: I will repay it. I could also mention that you owe me your very self.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Since I was confident that you would obey, I wrote to you because I knew that you would do even more than what I am asking you to do.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>At the same time also, prepare a place for me to stay, for I hope that through your prayers I will be given back to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>Epaphras, my fellow prisoner in Christ Jesus, greets you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_24</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>Mark, Aristarchus, Demas, and Luke, my colaborers, greet you too.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Philemon_1_25</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>May the grace of the Lord Jesus Christ be with your spirit.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Philemon</string>
+</dict>
+</plist>

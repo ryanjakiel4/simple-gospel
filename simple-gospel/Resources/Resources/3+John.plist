@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From the elder, to Gaius my dear brother, whom I love in truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>Dear friend, I pray that all may go well with you and that you may be in good health, just as it is well with your soul.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>For I rejoiced greatly when the brothers came and testified to your truth, just as you are living according to the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>I have no greater joy than this: to hear that my children are living according to the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Dear friend, you demonstrate faithfulness by whatever you do for the brothers (even though they are strangers).</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>They have testified to your love before the church. You will do well to send them on their way in a manner worthy of God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For they have gone forth on behalf of “The Name,” accepting nothing from the pagans.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Therefore we ought to support such people so that we become coworkers in cooperation with the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>I wrote something to the church, but Diotrephes, who loves to be first among them, does not acknowledge us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>Therefore, if I come, I will call attention to the deeds he is doing—the bringing of unjustified charges against us with evil words! And not being content with that, he not only refuses to welcome the brothers himself, but hinders the people who want to do so and throws them out of the church!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Dear friend, do not imitate what is bad, but what is good. The one who does good is of God; the one who does what is bad has not seen God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Demetrius has been testified to by all, even by the truth itself. We also testify to him, and you know that our testimony is true.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>I have many things to write to you, but I do not wish to write to you with pen and ink.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3+John_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>But I hope to see you right away, and we will speak face to face.  (1:15) Peace be with you. The friends here greet you. Greet the friends there by name.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>3+John</string>
+</dict>
+</plist>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From the elder, to an elect lady and her children, whom I love in truth (and not I alone, but also all those who know the truth),</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>because of the truth that resides in us and will be with us forever.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Grace, mercy, and peace will be with us from God the Father and from Jesus Christ the Son of the Father, in truth and love.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>I rejoiced greatly because I have found some of your children living according to the truth, just as the Father commanded us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>But now I ask you, lady (not as if I were writing a new commandment to you, but the one we have had from the beginning), that we love one another.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>(Now this is love: that we walk according to his commandments.) This is the commandment, just as you have heard from the beginning; thus you should walk in it.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For many deceivers have gone out into the world, people who do not confess Jesus as Christ coming in the flesh. This person is the deceiver and the antichrist!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Watch out, so that you do not lose the things we have worked for, but receive a full reward.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Everyone who goes on ahead and does not remain in the teaching of Christ does not have God. The one who remains in this teaching has both the Father and the Son.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>If anyone comes to you and does not bring this teaching, do not receive him into your house and do not give him any greeting</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>because the person who gives him a greeting shares in his evil deeds.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Though I have many other things to write to you, I do not want to do so with paper and ink, but I hope to come visit you and speak face to face so that our joy may be complete.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+John_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>The children of your elect sister greet you.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>2+John</string>
+</dict>
+</plist>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>The vision that Obadiah saw. The Sovereign Lord says this concerning Edom:We have heard a report from the Lord.An envoy was sent among the nations, saying, “Arise! Let us make war against Edom!”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>The Lord says, “Look! I will make you a weak nation; you will be greatly despised!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Your presumptuous heart has deceived you—you who reside in the safety of the rocky cliffs, whose home is high in the mountains. You think to yourself, ‘No one can bring me down to the ground!’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Even if you were to soar high like an eagle, even if you were to make your nest among the stars,I can bring you down even from there!” says the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>“If thieves came to rob you during the night, they would steal only as much as they wanted. If grape pickers came to harvest your vineyards, they would leave some behind for the poor. But you will be totally destroyed!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>How the people of Esau will be thoroughly plundered! Their hidden valuables will be ransacked!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>All your allies will force you from your homeland! Your treaty partners will deceive you and overpower you.Your trusted friends will set an ambush for youthat will take you by surprise!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>“At that time,” the Lord says,“I will destroy the wise sages of Edom, the advisers from Esau’s mountain.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Your warriors will be shattered, O Teman, so that everyone will be destroyed from Esau’s mountain!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>“Because you violently slaughtered your relatives, the people of Jacob, shame will cover you, and you will be destroyed forever.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>You stood aloof while strangers took his army captiveand foreigners advanced to his gates. When they cast lots over Jerusalem, you behaved as though you were in league with them.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>You should not have gloated when your relatives suffered calamity. You should not have rejoiced over the people of Judah when they were destroyed. You should not have boasted when they suffered adversity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>You should not have entered the city of my people when they experienced distress. You should not have joined in gloating over their misfortune when they suffered distress. You should not have looted their wealth when they endured distress.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>You should not have stood at the fork in the road to slaughter those trying to escape. You should not have captured their refugees when they suffered adversity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>“For the day of the Lord is approaching for all the nations! Just as you have done, so it will be done to you.You will get exactly what your deeds deserve.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>For just as you have drunk on my holy mountain,so all the nations will drink continually. They will drink, and they will gulp down;they will be as though they had never been.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>But on Mount Zion there will be a remnant of those who escape, and it will be a holy place once again.The descendants of Jacob will conquer those who had conquered them.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>The descendants of Jacob will be a fireand the descendants of Joseph a flame.The descendants of Esau will be like stubble.They will burn them up and devour them.There will not be a single survivor of the descendants of Esau!”Indeed, the Lord has spoken it.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>The people of the Negev will take possession of Esau’s mountain,and the people of the foothills will take possession of the land of the Philistines.They will also take possession of the territory of Ephraim and the territory of Samaria,and the people of Benjamin will take possession of Gilead.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>The exiles of this fortress of the people of Israel will take possession of what belongs to the people of Canaan, as far as Zarephath, and the exiles of Jerusalem who are in Sepharad will take possession of the towns of the Negev.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Obadiah_1_21</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>Those who have been delivered will go up on Mount Zionin order to rule over Esau’s mountain.Then the Lord will reign as King!</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Obadiah</string>
+</dict>
+</plist>

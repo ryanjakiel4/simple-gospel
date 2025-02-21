@@ -9,9 +9,11 @@
 import SwiftUI
 
 struct BooksGridView: View {
-    let columns = [
-        GridItem(.adaptive(minimum: 100, maximum: 120), spacing: 16)
-    ]
+    @EnvironmentObject private var settings: SettingsManager
+    
+    var columns: [GridItem] {
+        Array(repeating: GridItem(.flexible(), spacing: 16), count: settings.columnsCount)
+    }
     
     var body: some View {
         ScrollView {

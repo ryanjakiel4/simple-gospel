@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>This is the Lord’s message that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah during the time of Josiah son of Amon, king of Judah:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>“I will destroy everything from the face of the earth,” says the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>“I will destroy people and animals;I will destroy the birds in the skyand the fish in the sea.(The idolatrous images of these creatures will be destroyed along with evil people.) I will remove humanity from the face of the earth,” says the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>“I will attack Judahand all who live in Jerusalem. I will remove from this place every trace of Baal worship, as well as the very memory of the pagan priests.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>I will remove those who worship the stars in the sky from their rooftops, those who swear allegiance to the Lord while taking oaths in the name of their ‘king,’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>and those who turn their backs on the Lordand do not want the Lord’s help or guidance.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Be silent before the Sovereign Lord, for the Lord’s day of judgment is almost here. The Lord has prepared a sacrificial meal; he has ritually purified his guests.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>“On the day of the Lord’s sacrificial meal,I will punish the princes and the king’s sons,and all who wear foreign styles of clothing.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>On that day I will punish all who leap over the threshold, who fill the house of their master with wealth taken by violence and deceit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>On that day,” says the Lord,“a loud cry will go up from the Fish Gate, wailing from the city’s newer district, and a loud crash from the hills.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Wail, you who live in the market district, for all the merchants will disappear and those who count money will be removed.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>At that time I will search through Jerusalem with lamps.I will punish the people who are entrenched in their sin, those who think to themselves, ‘The Lord neither rewards nor punishes.’</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Their wealth will be stolenand their houses ruined!They will not live in the houses they have built,nor will they drink the wine from the vineyards they have planted.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>The Lord’s great day of judgment is almost here;it is approaching very rapidly!There will be a bitter sound on the Lord’s day of judgment;at that time warriors will cry out in battle.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>That day will be a day of God’s anger, a day of distress and hardship,a day of devastation and ruin,a day of darkness and gloom,a day of clouds and dark skies,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>a day of trumpet blasts and battle cries. Judgment will fall on the fortified cities and the high corner towers.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>I will bring distress on the people and they will stumble like blind men,for they have sinned against the Lord.Their blood will be poured out like dirt;their flesh will be scattered like manure.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_1_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Neither their silver nor their gold will be able to deliver themin the day of the Lord’s angry judgment.The whole earth will be consumed by his fiery wrath. Indeed, he will bring terrifying destruction on all who live on the earth.”</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Bunch yourselves together like straw, you undesirable nation,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>before God’s decree becomes reality and the day of opportunity disappears like windblown chaff, before the Lord’s raging anger overtakes you—before the day of the Lord’s angry judgment overtakes you!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Seek the Lord’s favor, all you humble people of the land who have obeyed his commands! Strive to do what is right! Strive to be humble! Maybe you will be protected on the day of the Lord’s angry judgment.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Indeed, Gaza will be deserted and Ashkelon will become a heap of ruins. Invaders will drive away the people of Ashdod by noon, and Ekron will be overthrown.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>Beware, you who live by the sea, the people who came from Crete. The Lord’s message is against you, Canaan, land of the Philistines:“I will destroy everyone who lives there!”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>The seacoast will be used as pasture lands by the shepherdsand as pens for their flocks.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>Those who are left from the kingdom of Judah will take possession of it. By the sea they will graze,in the houses of Ashkelon they will lie down in the evening,for the Lord their God will intervene for them and restore their prosperity.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>“I have heard Moab’s tauntsand the Ammonites’ insults.They taunted my peopleand verbally harassed those living in Judah.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Therefore, as surely as I live,” says the Lord of Heaven’s Armies, the God of Israel,“be certain that Moab will become like Sodomand the Ammonites like Gomorrah.They will be overrun by weeds, filled with salt pits, and permanently desolate.Those of my people who are left will plunder their belongings; those who are left in Judah will take possession of their land.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>This is how they will be repaid for their arrogance, for they taunted and verbally harassed the people of the Lord of Heaven’s Armies.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>The Lord will terrify them, for he will weaken all the gods of the earth.All the distant nations will worship the Lord in their own lands.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>“You Ethiopians will also die by my sword!”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>The Lord will attack the north and destroy Assyria.He will make Nineveh a heap of ruins;it will be as barren as the desert.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Flocks and herds will lie down in the middle of it,as well as every kind of wild animal. Owls will sleep in the tops of its support pillars;they will hoot through the windows. Rubble will cover the thresholds; even the cedar work will be exposed to the elements.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_2_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>This is how the once-proud city will end up—the city that was so secure. She thought to herself, “I am unique! No one can compare to me!” What a heap of ruins she has become, a place where wild animals live!Everyone who passes by her taunts her and shakes his fist.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_1</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Beware to the filthy, stained city;the city filled with oppressors!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_2</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>She is disobedient; she has refused correction. She does not trust the Lord;she has not sought the advice of her God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_3</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Her princes are as fierce as roaring lions; her rulers are as hungry as wolves in the desert, who completely devour their prey by morning.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_4</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Her prophets are proud; they are deceitful men.Her priests have defiled what is holy; they have broken God’s laws.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_5</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>The just Lord resides within her;he commits no unjust acts. Every morning he reveals his justice.At dawn he appears without fail. Yet the unjust know no shame.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_6</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>“I destroyed nations;their walled cities are in ruins.I turned their streets into ruins;no one passes through them.Their cities are desolate; no one lives there.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_7</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>I thought, ‘Certainly you will respect me!Now you will accept correction!’If she had done so, her home would not be destroyed by all the punishments I have threatened. But they eagerly sinnedin everything they did.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_8</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Therefore you must wait patiently for me,” says the Lord,“for the day when I attack and take plunder. I have decided to gather nations togetherand assemble kingdoms,so I can pour out my fury on them—all my raging anger.For the whole earth will be consumedby my fiery anger.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_9</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Know for sure that I will then enablethe nations to give me acceptable praise. All of them will invoke the Lord’s name when they pray and will worship him in unison.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_10</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>From beyond the rivers of Ethiopia, those who pray to me, my dispersed people,will bring me tribute.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_11</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>In that day you will not be ashamed of all your rebelliousness against me, for then I will remove from your midst those who proudly boast, and you will never again be arrogant on my holy hill.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_12</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>I will leave in your midst a humble and meek group of people, and they will find safety in the Lord’s presence.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_13</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>The Israelites who remain will not act deceitfully.They will not lie,and a deceitful tongue will not be found in their mouths.Indeed, they will graze peacefully like sheep and lie down;no one will terrify them.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_14</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Shout for joy, Daughter Zion! Shout out, Israel!Be happy and boast with all your heart, Daughter Jerusalem!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_15</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>The Lord has removed the judgment against you; he has turned back your enemy.Israel’s king, the Lord, is in your midst!You no longer need to fear disaster.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_16</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>On that day they will say to Jerusalem,“Don’t be afraid, Zion!Your hands must not be paralyzed from panic!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_17</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>The Lord your God is in your midst;he is a warrior who can deliver.He takes great delight in you; he renews you by his love; he shouts for joy over you.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_18</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>“As for those who grieve because they cannot attend the festivals—I took them away from you;they became tribute and were a source of shame to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_19</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Look, at that time I will deal with those who mistreated you.I will rescue the lame sheep and gather together the scattered sheep.I will take away their humiliationand make the whole earth admire and respect them.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>Zephaniah_3_20</string>
+					<key>isPoetry</key>
+					<true/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>At that time I will lead you—at the time I gather you together. Be sure of this! I will make all the nations of the earth respect and admire you when you see me restore you,” says the Lord.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>Zephaniah</string>
+</dict>
+</plist>

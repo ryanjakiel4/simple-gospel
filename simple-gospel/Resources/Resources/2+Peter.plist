@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From Simeon Peter, a slave and apostle of Jesus Christ, to those who through the righteousness of our God and Savior, Jesus Christ, have been granted a faith just as precious as ours.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>May grace and peace be lavished on you as you grow in the rich knowledge of God and of Jesus our Lord!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>I can pray this because his divine power has bestowed on us everything necessary for life and godliness through the rich knowledge of the one who called us by his own glory and excellence.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>Through these things he has bestowed on us his precious and most magnificent promises, so that by means of what was promised you may become partakers of the divine nature, after escaping the worldly corruption that is produced by evil desire.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>For this very reason, make every effort to add to your faith excellence, to excellence, knowledge;</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>to knowledge, self-control; to self-control, perseverance; to perseverance, godliness;</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>to godliness, brotherly affection; to brotherly affection, unselfish love.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>For if these things are really yours and are continually increasing, they will keep you from becoming ineffective and unproductive in your pursuit of knowing our Lord Jesus Christ more intimately.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>But concerning the one who lacks such things—he is blind. That is to say, he is nearsighted, since he has forgotten about the cleansing of his past sins.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>Therefore, brothers and sisters, make every effort to be sure of your calling and election. For by doing this you will never stumble into sin.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>For thus an entrance into the eternal kingdom of our Lord and Savior, Jesus Christ, will be richly provided for you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Therefore, I intend to remind you constantly of these things even though you know them and are well established in the truth that you now have.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Indeed, as long as I am in this tabernacle, I consider it right to stir you up by way of a reminder,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>since I know that my tabernacle will soon be removed because our Lord Jesus Christ revealed this to me.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>Indeed, I will also make every effort that, after my departure, you have a testimony of these things.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>For we did not follow cleverly concocted fables when we made known to you the power and return of our Lord Jesus Christ; no, we were eyewitnesses of his grandeur.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>For he received honor and glory from God the Father, when that voice was conveyed to him by the Majestic Glory: “This is my dear Son, in whom I am delighted.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>When this voice was conveyed from heaven, we ourselves heard it, for we were with him on the holy mountain.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Moreover, we possess the prophetic word as an altogether reliable thing. You do well if you pay attention to this as you would to a light shining in a murky place, until the day dawns and the morning star rises in your hearts.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Above all, you do well if you recognize this: No prophecy of scripture ever comes about by the prophet’s own imagination,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_1_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>for no prophecy was ever borne of human impulse; rather, men carried along by the Holy Spirit spoke from God.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>But false prophets arose among the people, just as there will be false teachers among you. These false teachers will infiltrate your midst with destructive heresies, even to the point of denying the Master who bought them. As a result, they will bring swift destruction on themselves.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>And many will follow their debauched lifestyles. Because of these false teachers, the way of truth will be slandered.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>And in their greed they will exploit you with deceptive words. Their condemnation pronounced long ago is not sitting idly by; their destruction is not asleep.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>For if God did not spare the angels who sinned, but threw them into hell and locked them up in chains in utter darkness, to be kept until the judgment,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>and if he did not spare the ancient world, but did protect Noah, a herald of righteousness, along with seven others, when God brought a flood on an ungodly world,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>and if he turned to ashes the cities of Sodom and Gomorrah when he condemned them to destruction, having appointed them to serve as an example to future generations of the ungodly,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>and if he rescued Lot, a righteous man in anguish over the debauched lifestyle of lawless men,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>(for while he lived among them day after day, that righteous man was tormented in his righteous soul by the lawless deeds he saw and heard)</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>—if so, then the Lord knows how to rescue the godly from their trials, and to reserve the unrighteous for punishment at the day of judgment,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>especially those who indulge their fleshly desires and who despise authority. Brazen and insolent, they are not afraid to insult the glorious ones,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>yet even angels, who are much more powerful, do not bring a slanderous judgment against them in the presence of the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>But these men, like irrational animals—creatures of instinct, born to be caught and destroyed—do not understand whom they are insulting, and consequently in their destruction they will be destroyed,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>suffering harm as the wages for their harmful ways. By considering it a pleasure to carouse in broad daylight, they are stains and blemishes, indulging in their deceitful pleasures when they feast together with you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Their eyes, full of adultery, never stop sinning; they entice unstable people. They have trained their hearts for greed, these cursed children!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>By forsaking the right path they have gone astray, because they followed the way of Balaam son of Bosor, who loved the wages of unrighteousness,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>yet was rebuked for his own transgression (a dumb donkey, speaking with a human voice, restrained the prophet’s madness).</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>These men are waterless springs and mists driven by a storm, for whom the utter depths of darkness have been reserved.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>For by speaking high-sounding but empty words they are able to entice, with fleshly desires and with debauchery, people who have just escaped from those who reside in error.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Although these false teachers promise such people freedom, they themselves are enslaved to immorality. For whatever a person succumbs to, to that he is enslaved.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>For if after they have escaped the filthy things of the world through the rich knowledge of our Lord and Savior Jesus Christ, they again get entangled in them and succumb to them, their last state has become worse for them than their first.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>For it would have been better for them never to have known the way of righteousness than, having known it, to turn back from the holy commandment that had been delivered to them.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_2_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>They are illustrations of this true proverb: “[A dog returns to its own vomit] ,” and “A sow, after washing herself, wallows in the mire.”</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Dear friends, this is already the second letter I have written you, in which I am trying to stir up your pure mind by way of reminder:</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>I want you to recall both the predictions foretold by the holy prophets and the commandment of the Lord and Savior through your apostles.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Above all, understand this: In the last days blatant scoffers will come, being propelled by their own evil urges</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>and saying, “Where is his promised return? For ever since our ancestors died, all things have continued as they were from the beginning of creation.”</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>For they deliberately suppress this fact, that by the word of God heavens existed long ago and an earth was formed out of water and by means of water.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>Through these things the world existing at that time was destroyed when it was deluged with water.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>But by the same word the present heavens and earth have been reserved for fire, by being kept for the day of judgment and destruction of the ungodly.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Now, dear friends, do not let this one thing escape your notice, that a single day is like a thousand years with the Lord and a thousand years are like a single day.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>The Lord is not slow concerning his promise, as some regard slowness, but is being patient toward you because he does not wish for any to perish but for all to come to repentance.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>But the day of the Lord will come like a thief; when it comes, the heavens will disappear with a horrific noise, and the celestial bodies will melt away in a blaze, and the earth and every deed done on it will be laid bare.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Since all these things are to melt away in this manner, what sort of people must you be, conducting your lives in holiness and godliness,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>while waiting for and hastening the coming of the day of God? Because of this day, the heavens will be burned up and dissolve, and the celestial bodies will melt away in a blaze!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>But, according to his promise, we are waiting for new heavens and a new earth, in which righteousness truly resides.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>Therefore, dear friends, since you are waiting for these things, strive to be found at peace, without spot or blemish, when you come into his presence.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>And regard the patience of our Lord as salvation, just as also our dear brother Paul wrote to you, according to the wisdom given to him,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>speaking of these things in all his letters. Some things in these letters are hard to understand, things the ignorant and unstable twist to their own destruction, as they also do to the rest of the scriptures.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Therefore, dear friends, since you have been forewarned, be on your guard that you do not get led astray by the error of these unprincipled men and fall from your firm grasp on the truth.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2+Peter_3_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the honor both now and on that eternal day.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>2+Peter</string>
+</dict>
+</plist>

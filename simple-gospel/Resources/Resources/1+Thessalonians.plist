@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapters</key>
+	<array>
+		<dict>
+			<key>number</key>
+			<integer>1</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>From Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ. Grace and peace to you!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>We thank God always for all of you as we mention you constantly in our prayers,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>because we recall in the presence of our God and Father your work produced by faith and labor motivated by love and endurance inspired by hope in our Lord Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>We know, brothers and sisters loved by God, that he has chosen you,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>in that our gospel did not come to you merely in words, but in power and in the Holy Spirit and with deep conviction (surely you recall the character we displayed when we came among you to help you).</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>And you became imitators of us and of the Lord when you received the message with joy that comes from the Holy Spirit, despite great affliction.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>As a result you became an example to all the believers in Macedonia and in Achaia.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>For from you the message of the Lord has echoed forth not just in Macedonia and Achaia, but in every place reports of your faith in God have spread, so that we do not need to say anything.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>For people everywhere report how you welcomed us and how you turned to God from idols to serve the living and true God</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_1_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>and to wait for his Son from heaven, whom he raised from the dead, Jesus our deliverer from the coming wrath.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>2</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>For you yourselves know, brothers and sisters, about our coming to you—it has not proven to be purposeless.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>But although we suffered earlier and were mistreated in Philippi, as you know, we had the courage in our God to declare to you the gospel of God in spite of much opposition.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>For the appeal we make does not come from error or impurity or with deceit,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>but just as we have been approved by God to be entrusted with the gospel, so we declare it, not to please people but God, who examines our hearts.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>For we never appeared with flattering speech, as you know, nor with a pretext for greed—God is our witness—</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>nor to seek glory from people, either from you or from others,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>although we could have imposed our weight as apostles of Christ; instead we became little children among you. Like a nursing mother caring for her own children,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>with such affection for you we were happy to share with you not only the gospel of God but also our own lives, because you had become dear to us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>For you recall, brothers and sisters, our toil and drudgery: By working night and day so as not to impose a burden on any of you, we preached to you the gospel of God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>You are witnesses, and so is God, as to how holy and righteous and blameless our conduct was toward you who believe.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>As you know, we treated each one of you as a father treats his own children,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>exhorting and encouraging you and insisting that you live in a way worthy of God who calls you to his own kingdom and his glory.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>And so we too constantly thank God that when you received God’s message that you heard from us, you accepted it not as a human message, but as it truly is, God’s message, which is at work among you who believe.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>For you became imitators, brothers and sisters, of God’s churches in Christ Jesus that are in Judea, because you too suffered the same things from your own countrymen as they in fact did from the Jews,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>who killed both the Lord Jesus and the prophets and persecuted us severely. They are displeasing to God and are opposed to all people</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>because they hinder us from speaking to the Gentiles so that they may be saved. Thus they constantly fill up their measure of sins, but wrath has come upon them completely.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>But when we were separated from you, brothers and sisters, for a short time (in presence, not in affection) we became all the more fervent in our great desire to see you in person.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>For we wanted to come to you (I, Paul, in fact tried again and again), but Satan thwarted us.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>For who is our hope or joy or crown to boast of before our Lord Jesus at his coming? Is it not of course you?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_2_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>For you are our glory and joy!</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>3</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>So when we could bear it no longer, we decided to stay on in Athens alone.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>We sent Timothy, our brother and fellow worker for God in the gospel of Christ, to strengthen you and encourage you about your faith,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>so that no one would be shaken by these afflictions. For you yourselves know that we are destined for this.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>For in fact when we were with you, we were telling you in advance that we would suffer affliction, and so it has happened, as you well know.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>So when I could bear it no longer, I sent to find out about your faith, for fear that the tempter somehow tempted you and our toil had proven useless.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>But now Timothy has come to us from you and given us the good news of your faith and love and that you always think of us with affection and long to see us just as we also long to see you!</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>So in all our distress and affliction, we were reassured about you, brothers and sisters, through your faith.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>For now we are alive again if you stand firm in the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>For how can we thank God enough for you, for all the joy we feel because of you before our God?</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>We pray earnestly night and day to see you in person and make up what may be lacking in your faith.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Now may God our Father himself and our Lord Jesus direct our way to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>And may the Lord cause you to increase and abound in love for one another and for all, just as we do for you,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_3_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>so that your hearts are strengthened in holiness to be blameless before our God and Father at the coming of our Lord Jesus with all his saints.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>4</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Finally then, brothers and sisters, we ask you and urge you in the Lord Jesus, that as you received instruction from us about how you must live and please God (as you are in fact living) that you do so more and more.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>For you know what commands we gave you through the Lord Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>For this is God’s will: that you become holy, that you keep away from sexual immorality,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>that each of you know how to possess his own body in holiness and honor,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>not in lustful passion like the Gentiles who do not know God.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>In this matter no one should violate the rights of his brother or take advantage of him, because the Lord is the avenger in all these cases, as we also told you earlier and warned you solemnly.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For God did not call us to impurity but in holiness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>Consequently the one who rejects this is not rejecting human authority but God, who gives his Holy Spirit to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>Now on the topic of brotherly love you have no need for anyone to write you, for you yourselves are taught by God to love one another.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>And indeed you are practicing it toward all the brothers and sisters in all of Macedonia. But we urge you, brothers and sisters, to do so more and more,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>to aspire to lead a quiet life, to attend to your own business, and to work with your own hands, as we commanded you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>In this way you will live a decent life before outsiders and not be in need.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>Now we do not want you to be uninformed, brothers and sisters, about those who are asleep, so that you will not grieve like the rest who have no hope.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>For if we believe that Jesus died and rose again, so also we believe that God will bring with him those who have fallen asleep as Christians.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>For we tell you this by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will surely not go ahead of those who have fallen asleep.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>For the Lord himself will come down from heaven with a shout of command, with the voice of the archangel, and with the trumpet of God, and the dead in Christ will rise first.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>Then we who are alive, who are left, will be suddenly caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_4_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>Therefore encourage one another with these words.</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>number</key>
+			<integer>5</integer>
+			<key>verses</key>
+			<array>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_1</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>Now on the topic of times and seasons, brothers and sisters, you have no need for anything to be written to you.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_2</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>2</integer>
+					<key>text</key>
+					<string>For you know quite well that the day of the Lord will come in the same way as a thief in the night.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_3</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>3</integer>
+					<key>text</key>
+					<string>Now when they are saying, “There is peace and security,” then sudden destruction comes on them, like labor pains on a pregnant woman, and they will surely not escape.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_4</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>4</integer>
+					<key>text</key>
+					<string>But you, brothers and sisters, are not in the darkness for the day to overtake you like a thief would.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_5</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>5</integer>
+					<key>text</key>
+					<string>For you all are sons of the light and sons of the day. We are not of the night nor of the darkness.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_6</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>6</integer>
+					<key>text</key>
+					<string>So then we must not sleep as the rest, but must stay alert and sober.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_7</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>7</integer>
+					<key>text</key>
+					<string>For those who sleep, sleep at night, and those who get drunk are drunk at night.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_8</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>8</integer>
+					<key>text</key>
+					<string>But since we are of the day, we must stay sober by putting on the breastplate of faith and love and as a helmet our hope for salvation.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_9</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>9</integer>
+					<key>text</key>
+					<string>For God did not destine us for wrath but for gaining salvation through our Lord Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_10</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>10</integer>
+					<key>text</key>
+					<string>He died for us so that whether we are alert or asleep, we will come to life together with him.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_11</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>11</integer>
+					<key>text</key>
+					<string>Therefore encourage one another and build up each other, just as you are in fact doing.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_12</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>12</integer>
+					<key>text</key>
+					<string>Now we ask you, brothers and sisters, to acknowledge those who labor among you and preside over you in the Lord and admonish you,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_13</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>13</integer>
+					<key>text</key>
+					<string>and to esteem them most highly in love because of their work. Be at peace among yourselves.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_14</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>14</integer>
+					<key>text</key>
+					<string>And we urge you, brothers and sisters, admonish the undisciplined, comfort the discouraged, help the weak, be patient toward all.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_15</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>15</integer>
+					<key>text</key>
+					<string>See that no one pays back evil for evil to anyone, but always pursue what is good for one another and for all.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_16</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>16</integer>
+					<key>text</key>
+					<string>Always rejoice,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_17</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>17</integer>
+					<key>text</key>
+					<string>constantly pray,</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_18</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>18</integer>
+					<key>text</key>
+					<string>in everything give thanks. For this is God’s will for you in Christ Jesus.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_19</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>19</integer>
+					<key>text</key>
+					<string>Do not extinguish the Spirit.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_20</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>20</integer>
+					<key>text</key>
+					<string>Do not treat prophecies with contempt.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_21</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>21</integer>
+					<key>text</key>
+					<string>But examine all things; hold fast to what is good.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_22</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>22</integer>
+					<key>text</key>
+					<string>Stay away from every form of evil.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_23</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>23</integer>
+					<key>text</key>
+					<string>Now may the God of peace himself make you completely holy and may your spirit and soul and body be kept entirely blameless at the coming of our Lord Jesus Christ.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_24</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>24</integer>
+					<key>text</key>
+					<string>He who calls you is trustworthy, and he will in fact do this.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_25</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>25</integer>
+					<key>text</key>
+					<string>Brothers and sisters, pray for us too.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_26</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>26</integer>
+					<key>text</key>
+					<string>Greet all the brothers and sisters with a holy kiss.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_27</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>27</integer>
+					<key>text</key>
+					<string>I call on you solemnly in the Lord to have this letter read to all the brothers and sisters.</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1+Thessalonians_5_28</string>
+					<key>isPoetry</key>
+					<false/>
+					<key>number</key>
+					<integer>28</integer>
+					<key>text</key>
+					<string>The grace of our Lord Jesus Christ be with you.</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>1+Thessalonians</string>
+</dict>
+</plist>
