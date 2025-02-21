@@ -9,7 +9,6 @@
 import SwiftUI
 
 struct BooksGridView: View {
-    @EnvironmentObject private var appearanceManager: AppearanceManager
     let columns = [
         GridItem(.adaptive(minimum: 100, maximum: 120), spacing: 16)
     ]
@@ -31,18 +30,18 @@ struct BooksGridView: View {
 
 struct BookCell: View {
     let book: Book
-    @EnvironmentObject private var appearanceManager: AppearanceManager
     
     var body: some View {
         VStack {
             Text(book.name)
-                .font(appearanceManager.font)
+                .font(.headline)
+                .dynamicTypeSize(...DynamicTypeSize.accessibility3)
                 .multilineTextAlignment(.center)
-                .foregroundColor(appearanceManager.colorScheme == .dark ? .white : .black)
+                .foregroundColor(.primary)
         }
         .frame(height: 100)
         .frame(maxWidth: .infinity)
-        .background(appearanceManager.colorScheme == .dark ? Color.gray.opacity(0.2) : Color.gray.opacity(0.1))
+        .background(Color(.systemGray6))  // Uses system background color that adapts to dark mode
         .cornerRadius(10)
     }
 } 

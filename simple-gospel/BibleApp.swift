@@ -10,15 +10,9 @@ import SwiftUI
 
 @main
 struct BibleApp: App {
-    @StateObject private var appearanceManager = AppearanceManager()
-    
     var body: some Scene {
         WindowGroup {
-            NavigationView {
-                BooksGridView()
-            }
-            .preferredColorScheme(appearanceManager.colorScheme)
-            .environmentObject(appearanceManager)
+            ContentView()
         }
     }
 } 
